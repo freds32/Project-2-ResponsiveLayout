@@ -16,7 +16,7 @@
     font-style: normal
 }
 .backtotop {
-      display: block; /* or 'inline' depending on your layout needs */
+      display: block; /* or 'inline' depending on layout needs */
   }
 
 /* Main Styles */
@@ -135,6 +135,10 @@ margin-right: auto;
 }
 p{
   padding: 5px 5px;
+}
+.skills{
+  max-width: 100%;
+  margin: 0,auto;
 }
 
 
