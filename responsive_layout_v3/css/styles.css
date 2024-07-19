@@ -24,6 +24,10 @@ ul{
 a{
     text-decoration: none;
     font-weight: bold;
+    transition: color 0.3s ease;
+}
+a:hover {
+    color: pink; /* Color when hovered */
 }
 nav{
     letter-spacing: .05em;
